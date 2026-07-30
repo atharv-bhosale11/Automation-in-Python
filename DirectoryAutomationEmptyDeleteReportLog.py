@@ -1,7 +1,7 @@
 import os
 import sys
 
-def DirectoryScanner(DirName="Marvellous"):
+def DirectoryScanner(DirName="Atharv"):
     Border = "-"*52
     fobj = open("Data.log","w")
 
