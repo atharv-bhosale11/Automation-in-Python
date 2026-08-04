@@ -1,4 +1,4 @@
-#seek(Kuthe,kuthun)
+#seek(from where, to where)
 #kuthun : 0/1/2
 #0 : Starting
 #1 : Current
