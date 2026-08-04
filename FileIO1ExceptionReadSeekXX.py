@@ -1,7 +1,7 @@
 #Seek operation from back
 
 #seek(from where, to where)
-#kuthun : 0/1/2
+#from where : 0/1/2
 #0 : Starting
 #1 : Current
 #2 : End
